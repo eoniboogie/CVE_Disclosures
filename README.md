@@ -8,3 +8,4 @@ You can find a list of security vulnerabilities that I have discovered.
 |CVE-ID|Descriptions|
 |------|------------|
 | [CVE-2025-67349](./CVE-2025-67349/CVE-2025-67349.md)|Reflective XSS in Flent CMS|
+| [CVE-2026-38947](./CVE-2026-38947/CVE-2026-38947.md)|XSS in Flent CMS plugin|
